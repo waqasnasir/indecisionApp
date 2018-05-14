@@ -1,0 +1,9 @@
+.option{
+  margin: 0em;
+  border-bottom: 1px solid lighten($light-blue, 10%);
+  padding: $l-size $m-size;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  word-break: break-all;
+}
